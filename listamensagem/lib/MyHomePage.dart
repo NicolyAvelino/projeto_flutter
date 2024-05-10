@@ -128,8 +128,6 @@ class _MyHomePageState extends State<MyHomePage> {
                                   Colors.green),
                             ),
                             onPressed: () {
-                              janelaAlerta(
-                                  context, "Operação não implementada!");
                               _primeira();
                             },
                             child: const Text('<<'))),
